@@ -1,12 +1,11 @@
 # Hey, I'm Aryan 👋
 
-### A 13 Year OLD Student | Frontend Developer | Startup Founder
+### Student | Frontend Developer | Startup Founder
 
-- I'm currently in Class 9, passionate about building products, coding, entrepreneurship, and solving real-world problems with technology.
+- I'm passionate about building products, coding, entrepreneurship, and solving real-world problems with technology.
 
 ## 💡 About Me
 
-- 🎓 Class 9 Student
 - 💻 Frontend Web Developer
 - 🎮 Unity Game Developer
 - 🎨 Graphic Designer
