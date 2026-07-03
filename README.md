@@ -9,9 +9,9 @@
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&color=blue"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan1994)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_LINK)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skylooperr)
+[![Portfolio]([https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png](https://www.linktr.ee/skylooperr)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:skylooperr@gmail.com)
 
 </div>
 
@@ -24,24 +24,26 @@ const aryan = {
 
     nickname: "skylooperr",
 
-    age: 14,
+    age: 13,
 
     country: "India 🇮🇳",
 
     education: "Class IX",
 
     role: [
-        "Frontend Developer",
+        "Web Developer",
         "Startup Founder",
         "Graphic Designer",
         "UI Designer"
+        "AI Engineer"
+        "Product Designer"
     ],
 
     startup: "HydroxFlow",
 
     currentlyLearning: [
         "React",
-        "Next.js",
+        "CyberSecurity",
         "Backend",
         "AI",
         "Cloud"
@@ -55,7 +57,7 @@ const aryan = {
     ],
 
     motto:
-    "Build Products. Solve Problems."
+    "Code - Create - Conquer"
 
 }
 ```
@@ -146,7 +148,7 @@ const aryan = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1994&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNTQ5uSrpkQcxHqgDj8_lVjB9nOJp-q5qBuRTZYFKHRX_LtPPjJiSx_ug&s=10]"/>
 
 </p>
 
@@ -170,39 +172,12 @@ const aryan = {
 
 </p>
 
----
 
-# 🛠 Featured Projects
+# 📚 Currently Learning :
 
-### 🚰 HydroxFlow
+✔ React Native
 
-Digital Water Tanker Platform
-
-⭐ Startup
-
----
-
-### 🏠 Homiyo
-
-Home Decor E-Commerce
-
----
-
-### 🎮 Unity Games
-
-Multiple Games Built in Unity
-
----
-
-### 🌐 Personal Portfolio
-
-Frontend Showcase
-
----
-
-# 📚 Currently Learning
-
-✔ Next.js
+✔ CyberSecurity
 
 ✔ Backend Development
 
@@ -218,13 +193,12 @@ Frontend Showcase
 
 🚀 Scale HydroxFlow
 
-🏆 Win Major Hackathons
+🏆 Become A Certified CyberSecurity Engineer
 
 🌍 Contribute to Open Source
 
 💻 Master Full Stack
 
-🧠 Learn AI & ML
 
 ---
 
@@ -236,15 +210,15 @@ Frontend Showcase
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="YOUR LINKEDIN">
+<a href="https://www.linkedin.com/in/skylooperr">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR EMAIL">
+<a href="skylooperr@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR PORTFOLIO">
+<a href="https://www.linktr.ee/skylooperr">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
@@ -254,7 +228,7 @@ Frontend Showcase
 
 # 💭 Quote
 
-> **"Dream big. Build bigger."**
+> **"!! Code - Create - Conquer !!"**
 
 ---
 
@@ -264,6 +238,6 @@ Frontend Showcase
 
 ### ⭐ Thanks for visiting!
 
-Made with ❤️ by Aryan (@skylooperr)
+Made with 💗 by Aryan (@skylooperr)
 
 </div>
