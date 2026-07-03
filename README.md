@@ -169,39 +169,113 @@ const aryan = {
 
 </p>
 
----
+# 🚀 Featured Projects
 
+<div align="center">
 
-# 📚 Currently Learning :
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌊 **HydroxFlow** | Online Water Tanker Booking Platform | React • Supabase • JS |
+| 🏡 **Homiyo** | Home Decor E-Commerce Website | HTML • CSS • JS |
+| 🎮 **Unity Games** | Collection of Indie Games | Unity • C# |
+| 🌐 **Portfolio Website** | My Developer Portfolio | React • Tailwind |
 
-✔ React Native
-
-✔ CyberSecurity
-
-✔ Backend Development
-
-✔ AI Integrations
-
-✔ Cloud Computing
-
-✔ System Design
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 📚 Currently Learning
 
-🚀 Scale HydroxFlow
+✔ ⚛️ React Native
 
-🏆 Become A Certified CyberSecurity Engineer
+✔ 🔐 Cybersecurity
 
-🌍 Contribute to Open Source
+✔ ⚡ Backend Development
 
-💻 Master Full Stack
+✔ 🤖 Artificial Intelligence
 
+✔ ☁️ Cloud Computing
+
+✔ 🏗️ System Design
+
+✔ 🦀 Rust (Soon...)
 
 ---
 
-# 📫 Connect With Me
+# 🎯 Goals for 2026
+
+- 🚀 Scale **HydroxFlow** into a real startup
+- 🏆 Become a Certified Cybersecurity Engineer
+- 🌍 Contribute to Open Source
+- 💻 Master Full-Stack Development
+- 🤖 Build AI-powered Products
+- 📱 Launch Mobile Applications
+- 🥇 Win National Hackathons
+- ☁️ Learn AWS & Cloud Infrastructure
+
+---
+
+# 📜 Certifications (Coming Soon...)
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux%20Foundation-Soon-blue?style=for-the-badge&logo=linuxfoundation)
+
+![Google](https://img.shields.io/badge/Google-Soon-red?style=for-the-badge&logo=google)
+
+![Cisco](https://img.shields.io/badge/Cisco-Soon-1BA0D7?style=for-the-badge&logo=cisco)
+
+![Meta](https://img.shields.io/badge/Meta-Soon-0866FF?style=for-the-badge&logo=meta)
+
+</p>
+
+---
+
+# 📊 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan1994&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan1994&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan1994&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan1994&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aryan1994/aryan1994/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> **Note:** Enable this using a GitHub Action after creating your profile repository.
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -209,34 +283,74 @@ const aryan = {
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/skylooperr">
+<a href="https://linkedin.com/in/skylooperr">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="skylooperr@gmail.com">
+<a href="mailto:skylooperr@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linktr.ee/skylooperr">
+<a href="https://linktr.ee/skylooperr">
 <img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+<a href="https://x.com/">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </p>
 
 ---
 
+# 💡 Fun Facts
+
+```javascript
+while(alive){
+
+    eat();
+
+    code();
+
+    build();
+
+    learn();
+
+    repeat();
+
+}
+```
+
+---
+
 # 💭 Quote
 
-> **"!! Code - Create - Conquer !!"**
+> ### **"Code • Create • Conquer."**
+
+> *"The best way to predict the future is to build it."*
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
+## ⭐ Thanks for Visiting!
 
-### ⭐ Thanks for visiting!
+### If you like my work, consider ⭐ starring my repositories!
 
-Made with 💗 by Aryan (@skylooperr)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:00C6FF,100:7F5AF0&height=180&section=footer&text=See%20You%20Again!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+
+### 💙 Made with ❤️ by **Aryan Kumar (@skylooperr)**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Happy+Coding!;See+you+again+👋"/>
 
 </div>
+
+<!--
+████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
+   ██║   ███████║███████║██╔██╗ ██║█████╔╝
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
+Thanks for checking the source !! 
