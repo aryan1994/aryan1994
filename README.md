@@ -4,13 +4,13 @@
 
 ### 🚀 Founder @ HydroxFlow • 💻 Frontend Developer • 🎨 UI Designer • ⚡ Student Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Frontend+Developer+%7C+UI%2FUX+Designer.;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=#061447&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Web+Developer+%7C+UI%2FUX+Designer.;Code-+ Create- + Conquer !!;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
 
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&color=blue"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan1994)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skylooperr)
-[![Portfolio]([https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png](https://www.linktr.ee/skylooperr)
+[![Portfolio](https://img.shields.io/badge/PortFolio--success?style=for-the-badge&logo=LinkTree)](https://www.linktr.ee/skylooperr)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:skylooperr@gmail.com)
 
 </div>
