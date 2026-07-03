@@ -66,7 +66,7 @@ const aryan = {
 
 # 🚀 Startup
 
-# <img src="[https://img.itch.zone/aW1nLzI0ODI4MjQ1LnBuZw==/315x250%23c/Y3bUEl.png]" width="35"> HydroxFlow
+# >>>💧HydroxFlow
 
 ### Making Water Tanker Booking Digital
 
