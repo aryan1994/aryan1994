@@ -4,8 +4,7 @@
 
 ### 🚀 Founder @ HydroxFlow • 💻 Full-Stack Developer • 🤖 AI Enthusiast • 🎨 UI/UX Designer • 🇮🇳 Student Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+Startups+Before+Finishing+School.;🌊+Founder+%40+HydroxFlow.;💻+Full-Stack+Developer+%7C+UI%2FUX+Designer.;🤖+AI+Enthusiast+%7C+Cybersecurity+Learner.;🏆+Hackathons+%7C+Open+Source+%7C+Innovation.;⚡+Code.+Create.+Conquer."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Frontend+Developer+%7C+UI%2FUX+Designer.;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan1994)
