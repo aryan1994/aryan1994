@@ -1,5 +1,4 @@
 <div align="center">
-#<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeL_m720GjylcL93t2Lt8sW5H4BupZcyb6RZisqo0U3tObs_qKkOG4xIE&s=10]"
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan Kumar
 
@@ -67,7 +66,7 @@ const aryan = {
 
 # 🚀 Startup
 
-# 🌊 HydroxFlow
+# <img src="[https://img.itch.zone/aW1nLzI0ODI4MjQ1LnBuZw==/315x250%23c/Y3bUEl.png]" width="35"> HydroxFlow
 
 ### Making Water Tanker Booking Digital
 
