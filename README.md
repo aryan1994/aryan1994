@@ -4,7 +4,7 @@
 
 ### 🚀 Founder @ HydroxFlow • 💻 Frontend Developer • 🎨 UI Designer • ⚡ Student Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=#061447&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Web+Developer+%7C+UI%2FUX+Designer.;Code-+ Create- + Conquer !!;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=#061447&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Web+Developer+%7C+UI%2FUX+Designer.;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
 
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&color=blue"/>
 
