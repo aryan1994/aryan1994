@@ -1,17 +1,17 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan 👋
 
-### 🚀 Founder @ HydroxFlow • 💻 Frontend Developer • 🎨 UI Designer • ⚡ Student Entrepreneur
+### 🚀 Founder @ HydroxFlow • 💻 Full-Stack Developer • 🤖 AI Enthusiast • 🎨 UI/UX Designer • 🇮🇳 Student Entrepreneur
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+Startups+Before+Finishing+School.;🌊+Founder+%40+HydroxFlow.;💻+Frontend+Developer+%7C+UI%2FUX+Designer.;🏆+Hackathons+%7C+Open+Source+%7C+AI.;⚡+Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=900&height=60&lines=🚀+Building+Startups+Before+Finishing+School.;🌊+Founder+%40+HydroxFlow.;💻+Full-Stack+Developer+%7C+UI%2FUX+Designer.;🤖+AI+Enthusiast+%7C+Cybersecurity+Learner.;🏆+Hackathons+%7C+Open+Source+%7C+Innovation.;⚡+Code.+Create.+Conquer."/>
 
-<img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan1994)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skylooperr)
-[![Portfolio](https://img.shields.io/badge/PortFolio--success?style=for-the-badge&logo=LinkTree)](https://www.linktr.ee/skylooperr)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:skylooperr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/skylooperr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/skylooperr)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skylooperr@gmail.com)
 
 </div>
 
@@ -22,6 +22,8 @@
 ```javascript
 const aryan = {
 
+    name: "Aryan Kumar",
+
     nickname: "skylooperr",
 
     age: 13,
@@ -31,11 +33,11 @@ const aryan = {
     education: "Class IX",
 
     role: [
-        "Web Developer",
+        "Full-Stack Developer",
         "Startup Founder",
+        "UI/UX Designer",
         "Graphic Designer",
-        "UI Designer"
-        "AI Engineer"
+        "AI Enthusiast",
         "Product Designer"
     ],
 
@@ -43,91 +45,86 @@ const aryan = {
 
     currentlyLearning: [
         "React",
-        "CyberSecurity",
-        "Backend",
-        "AI",
-        "Cloud"
+        "React Native",
+        "Cybersecurity",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Cloud Computing"
     ],
 
     hobbies: [
         "Building Products",
         "Hackathons",
         "Open Source",
-        "Design"
+        "Product Design"
     ],
 
-    motto:
-    "Code - Create - Conquer"
+    motto: "Code • Create • Conquer"
 
 }
 ```
 
 ---
 
-# 🚀 Startup
-
-# >>>💧HydroxFlow
+# 💧 HydroxFlow
 
 ### Making Water Tanker Booking Digital
 
-✔ Online Booking
+🌊 India's next-generation water tanker booking platform.
 
-✔ Real-Time Tracking
+### Features
 
-✔ Digital Operations
-
-✔ Better Customer Experience
+- 🚰 Online Water Tanker Booking
+- 📍 Real-Time Order Tracking
+- 💳 Secure Digital Payments
+- 📈 Dashboard for Suppliers
+- 📦 Order Management
+- 📱 Mobile Friendly
 
 ---
 
 # 🏆 Achievements
 
-🏅 Finalist — EDC IIT Delhi Entrepreneurship Event
+🥇 Finalist — Entrepreneurship Development Cell, IIT Delhi
 
 🏅 National Startup Pitch Competitions
 
-🏅 13+ Web Apps & Games
+🚀 Founder @ HydroxFlow
 
-🏅 Founder @ HydroxFlow
+💻 Built 13+ Web Applications & Games
 
-🏅 4000+ LinkedIn Connections
+🤝 4000+ LinkedIn Connections
 
-🏅 UI/UX & Graphic Design Enthusiast
+🎨 UI/UX & Graphic Design Enthusiast
+
+🌐 Frontend Developer
 
 ---
 
 # 💻 Tech Arsenal
 
-## Languages
+## 👨‍💻 Languages
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,cs"/>
-
 </p>
 
-## Frameworks
+## ⚛️ Frameworks
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
-
 </p>
 
-## Database
+## 🗄 Databases
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase"/>
-
 </p>
 
-## Tools
+## 🛠 Tools
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,unity"/>
-
 </p>
 
 ---
@@ -148,7 +145,7 @@ const aryan = {
 
 <p align="center">
 
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNTQ5uSrpkQcxHqgDj8_lVjB9nOJp-q5qBuRTZYFKHRX_LtPPjJiSx_ug&s=10]"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1994&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -171,6 +168,8 @@ const aryan = {
 <img src="https://github-profile-trophy.vercel.app/?username=aryan1994&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
+
+---
 
 
 # 📚 Currently Learning :
