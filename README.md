@@ -140,14 +140,6 @@ const aryan = {
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan1994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -159,12 +151,6 @@ const aryan = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan1994&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
 
 # 🚀 Featured Projects
 
@@ -257,18 +243,6 @@ const aryan = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan1994&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/aryan1994/aryan1994/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-> **Note:** Enable this using a GitHub Action after creating your profile repository.
 
 ---
 
