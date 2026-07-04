@@ -214,7 +214,7 @@ const aryan = {
 -  Mobile Friendly
 
 ---
-
+```javascript
 #  Achievements
 │
 ├── IIT Delhi
@@ -230,7 +230,7 @@ const aryan = {
 │
 └── Community
     └── 4000+ LinkedIn Connections
-
+```
 ---
 
 #  Currently Learning
