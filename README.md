@@ -220,6 +220,12 @@ const aryan = {
 ├── IIT Delhi
 │   └── EDC Finalist
 │
+├── IIT Bombay Tatva
+│   └── Enviropreneure Pitch Battle Finalist
+|
+├── GLS University , Ahemdabad
+│   └── Winner - Recognized as Teenager Entrepreneur (TeenPreneur)
+|
 ├── Startup
 │   └── HydroxFlow Founder
 │
@@ -229,7 +235,7 @@ const aryan = {
 │   └── Open Source
 │
 └── Community
-    └── 4000+ LinkedIn Connections
+    └── 4200+ LinkedIn Connections
 ```
 ---
 
