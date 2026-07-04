@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan !!👋
 
-### 🚀 Founder @ HydroxFlow • 💻 Full-Stack Developer • 🤖 AI Enthusiast • 🎨 UI/UX Designer • 🇮🇳 Student Entrepreneur
+### Founder @ HydroxFlow •  Web Developer •  AI Enthusiast •  UI/UX Designer • 13 Y/O Entrepreneur
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Frontend+Developer+%7C+UI%2FUX+Designer.;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB"/>
@@ -27,7 +27,7 @@ const aryan = {
 
     age: 13,
 
-    country: "India 🇮🇳",
+    country: "India ",
 
     education: "Class IX",
 
@@ -72,62 +72,27 @@ const aryan = {
 
 ---
 
-# 💧 HydroxFlow
+#  Tech Arsenal
 
-### Making Water Tanker Booking Digital
-
-🌊 India's next-generation water tanker booking platform.
-
-### Features
-
-- 🚰 Online Water Tanker Booking
-- 📍 Real-Time Order Tracking
-- 💳 Secure Digital Payments
-- 📈 Dashboard for Suppliers
-- 📦 Order Management
-- 📱 Mobile Friendly
-
----
-
-# 🏆 Achievements
-
-🥇 Finalist — Entrepreneurship Development Cell, IIT Delhi
-
-🏅 National Startup Pitch Competitions
-
-🚀 Founder @ HydroxFlow
-
-💻 Built 13+ Web Applications & Games
-
-🤝 4000+ LinkedIn Connections
-
-🎨 UI/UX & Graphic Design Enthusiast
-
-🌐 Frontend Developer
-
----
-
-# 💻 Tech Arsenal
-
-## 👨‍💻 Languages
+##  Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,cs"/>
 </p>
 
-## ⚛️ Frameworks
+##  Frameworks
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
 </p>
 
-## 🗄 Databases
+##  Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase"/>
 </p>
 
-## 🛠 Tools
+##  Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,unity"/>
@@ -135,7 +100,7 @@ const aryan = {
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -146,82 +111,7 @@ const aryan = {
 </p>
 
 ---
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan1994&theme=tokyo-night"/>
-
-</p>
-
----
-
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌊 **HydroxFlow** | Online Water Tanker Booking Platform | React • Supabase • JS |
-| 🏡 **Homiyo** | Home Decor E-Commerce Website | HTML • CSS • JS |
-| 🎮 **Unity Games** | Collection of Indie Games | Unity • C# |
-| 🌐 **Portfolio Website** | My Developer Portfolio | React • Tailwind |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-✔ ⚛️ React Native
-
-✔ 🔐 Cybersecurity
-
-✔ ⚡ Backend Development
-
-✔ 🤖 Artificial Intelligence
-
-✔ ☁️ Cloud Computing
-
-✔ 🏗️ System Design
-
-✔ 🦀 Rust (Soon...)
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Scale **HydroxFlow** into a real startup
-- 🏆 Become a Certified Cybersecurity Engineer
-- 🌍 Contribute to Open Source
-- 💻 Master Full-Stack Development
-- 🤖 Build AI-powered Products
-- 📱 Launch Mobile Applications
-- 🥇 Win National Hackathons
-- ☁️ Learn AWS & Cloud Infrastructure
-
----
-
-# 📜 Certifications (Coming Soon...)
-
-<p align="center">
-
-![Linux](https://img.shields.io/badge/Linux%20Foundation-Soon-blue?style=for-the-badge&logo=linuxfoundation)
-
-![Google](https://img.shields.io/badge/Google-Soon-red?style=for-the-badge&logo=google)
-
-![Cisco](https://img.shields.io/badge/Cisco-Soon-1BA0D7?style=for-the-badge&logo=cisco)
-
-![Meta](https://img.shields.io/badge/Meta-Soon-0866FF?style=for-the-badge&logo=meta)
-
-</p>
-
----
-
-# 📊 Coding Activity
+#  Coding Activity
 
 <p align="center">
 
@@ -231,7 +121,7 @@ const aryan = {
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -241,7 +131,7 @@ const aryan = {
 
 ---
 
-# 📊 Profile Summary
+#  Profile Summary
 
 <p align="center">
 
@@ -253,7 +143,7 @@ const aryan = {
 
 ---
 
-# 🌐 Let's Connect
+#  Let's Connect
 
 <p align="center">
 
@@ -281,7 +171,85 @@ const aryan = {
 
 ---
 
-# 💭 Quote
+
+#  Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan1994&theme=tokyo-night"/>
+
+</p>
+
+---
+
+
+#  Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌊 **HydroxFlow** | Online Water Tanker Booking Platform | React • Supabase • JS |
+| 🏡 **Homiyo** | Home Decor E-Commerce Website | HTML • CSS • JS |
+| 🎮 **Unity Games** | Collection of Indie Games | Unity • C# |
+| 🌐 **Portfolio Website** | My Developer Portfolio | React • Tailwind |
+
+</div>
+
+---
+
+# HydroxFlow
+
+### Making Water Tanker Booking Digital
+
+🌊 India's next-generation water tanker booking platform.
+
+### Features
+
+-  Online Water Tanker Booking
+-  Real-Time Order Tracking
+-  Secure Digital Payments
+-  Dashboard for Suppliers
+-  Order Management
+-  Mobile Friendly
+
+---
+
+#  Achievements
+│
+├── IIT Delhi
+│   └── EDC Finalist
+│
+├── Startup
+│   └── HydroxFlow Founder
+│
+├── Development
+│   ├── 13+ Applications
+│   ├── Unity Games
+│   └── Open Source
+│
+└── Community
+    └── 4000+ LinkedIn Connections
+
+---
+
+#  Currently Learning
+
+✔  React Native
+
+✔ Cybersecurity
+
+✔  Backend Development
+
+✔  Artificial Intelligence
+
+✔  Cloud Computing
+
+✔  System Design
+
+---
+
+#  Quote
 
 > ### **"Code • Create • Conquer."**
 
@@ -291,13 +259,13 @@ const aryan = {
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+##  Thanks for Visiting!
 
 ### If you like my work, consider ⭐ starring my repositories!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:00C6FF,100:7F5AF0&height=180&section=footer&text=See%20You%20Again!&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-### 💙 Made with ❤️ by **Aryan Kumar (@skylooperr)**
+###  Made with 💗 by **Aryan Kumar (@skylooperr)**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Happy+Coding!;See+you+again+👋"/>
 
