@@ -281,26 +281,6 @@ const aryan = {
 
 ---
 
-# 💡 Fun Facts
-
-```javascript
-while(alive){
-
-    eat();
-
-    code();
-
-    build();
-
-    learn();
-
-    repeat();
-
-}
-```
-
----
-
 # 💭 Quote
 
 > ### **"Code • Create • Conquer."**
