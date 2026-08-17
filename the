@@ -1,0 +1,4 @@
+aryan1994/
+├─ .github/          # GitHub‑specific configuration (CI, issue templates, etc.)
+├─ README.md         # Project description, setup instructions, usage examples
+└─ src/              # All production code
