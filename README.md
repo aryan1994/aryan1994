@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Aryan !!👋
 
-### Founder @ HydroxFlow •  Web Developer •  AI Enthusiast •  UI/UX Designer • 13 Y/O Entrepreneur
+### Founder @ HydroxFlow •  Web Developer •  AI Enthusiast •  UI/UX Designer • 14 Y/O Entrepreneur
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+Startups+Before+Finishing+School.;Founder+of+HydroxFlow.;Frontend+Developer+%7C+UI%2FUX+Designer.;Hackathons+%7C+Open+Source+%7C+AI.;Always+Learning.+Always+Building."/>
 <img src="https://komarev.com/ghpvc/?username=aryan1994&style=for-the-badge&label=PROFILE+VIEWS&color=1F6FEB"/>
