@@ -25,7 +25,7 @@ const aryan = {
 
     nickname: "skylooperr",
 
-    age: 13,
+    age: 14,
 
     country: "India ",
 
